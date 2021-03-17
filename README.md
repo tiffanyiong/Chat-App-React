@@ -1,5 +1,5 @@
-#React-Chat-App
-##install dependency 
+# React-Chat-App
+## install dependency 
 ```
  npm install @ant-design/icons axios react-chat-engine
 ```
