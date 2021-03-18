@@ -1,9 +1,13 @@
 # React-Chat-App
 ## Demo
-https://letschatnow.netlify.app/
-your can login with the following account:
-**username:** tester1
-**password:** 123123
+https://letschatnow.netlify.app/ <br>
+your can login with the following account: <br>
+**username:** tester1 <br>
+**password:** 123123  
+<br>
+*currently don't have logout button, instead,  you can clear localstorage.* <br>
+*I build this based on a youtube tutorials: https://www.youtube.com/watch?v=jcOKU9f86XE&ab_channel=JavaScriptMastery*
+---
 
 
 ## Install dependency 
@@ -15,7 +19,7 @@ your can login with the following account:
 
 ## Server
 https://chatengine.io/
-
+sign up and create a new project, then place your projectID in App.js
 ## App Depolyement
 ```
 npm run build
