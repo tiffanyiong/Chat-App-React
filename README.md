@@ -9,8 +9,7 @@ your can login with the following account:
 currently don't have logout button, instead,  you can clear localstorage.
 
 ```
-<p>I build this based on a youtube tutorials: https://www.youtube.com/watch?v=jcOKU9f86XE&ab_channel=JavaScriptMastery</p>
-
+Cancel changes
 
 
 ## Install dependency 
@@ -28,3 +27,6 @@ sign up and create a new project, then place your projectID in App.js
 npm run build
 ```
 upload your build file in https://www.netlify.com/
+
+<br>
+<p>I build this based on a youtube tutorials: https://www.youtube.com/watch?v=jcOKU9f86XE&ab_channel=JavaScriptMastery</p>
